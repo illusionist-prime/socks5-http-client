@@ -28,7 +28,7 @@
 		"url": "https://github.com/mattcg/socks5-http-client.git"
 	},
 	"dependencies": {
-		"socks5-client": "~1.2.6"
+		"socks5-client": "https://github.com/illusionist-prime/socks5-client.git"
 	},
 	"devDependencies": {
 		"mocha": "~3.1.2",
